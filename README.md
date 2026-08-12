@@ -1,4 +1,5 @@
-I'm Yancy Ymata, I am an Information Technology student with a strong interest in software engineering, backend development, and AI-powered applications.
+                                                  Hello! I'm YANCY YMATA, 
+I am an Information Technology student with a strong interest in software engineering, backend development, and AI-powered applications.
 
 # 💫 About Me:
 I'm currently working on our capstone project which is a A Web-Based Order Management System<br>With AI-Assisted Analytics and Automated Inventory for Pecto’s Bakery in Lucban Quezon.<br><br>I’m currently learning React for our frontend and Node.js for our backend. <br><br>
